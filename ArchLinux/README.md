@@ -20,7 +20,7 @@ Then, we execute the following command:
 ```Bash
 ip link set enp0s3 up # In my case
 ```
-IMPORTANT: IF YOU HAD AN ERROR WITH THIS COMMAND, PLEASE CHECK <a href="https://github.com/Filipondios/Arch-Linux/blob/main/Installation/WifiError.md">MY SOLUTION</a>.
+IMPORTANT: IF YOU HAD AN ERROR WITH THIS COMMAND, PLEASE CHECK <a href="https://github.com/Filipondios/Install-Guides/blob/main/ArchLinux/WifiError.md">MY SOLUTION</a>.
 
 ```Bash
 iwlist enp0s3 scan # Maybe its not supported
