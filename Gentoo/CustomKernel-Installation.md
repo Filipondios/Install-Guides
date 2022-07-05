@@ -16,7 +16,6 @@ eselect kernel set 1
 ls -l /usr/src/linux
 ```
 
-
 Now that we installed the firmware, lets customize, compile and install our linux kernel. First, we need to download
 a Gentoo app that will help us to configure the kernel. So then:
 ```bash
