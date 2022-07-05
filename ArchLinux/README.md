@@ -251,6 +251,3 @@ sudo reboot now
 At this poit, if GRUB loaded ArchLinux, you installed everything successfully the system. Now you should see a black screen with a command line, like the installation one. 
 
 Now you can do the best part of Arch Linux: Select your desktop enviroment and your display manager if you want. If you are interested on this series and my installation guides, you can also see my <a href="https://github.com/Filipondios/Arch-Linux/blob/main/Installation/Desktop%20Enviroment%20Installation.md">Desktop enviroment installation guide</a>. Thats all!
-
-
-
